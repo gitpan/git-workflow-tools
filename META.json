@@ -43,15 +43,15 @@
    "provides" : {
       "Git::Workflow" : {
          "file" : "lib/Git/Workflow.pm",
-         "version" : "0.5"
+         "version" : "0.6"
       },
       "Git::Workflow::Pom" : {
          "file" : "lib/Git/Workflow/Pom.pm",
-         "version" : "0.5"
+         "version" : "0.6"
       },
       "Git::Workflow::Repository" : {
          "file" : "lib/Git/Workflow/Repository.pm",
-         "version" : "0.5"
+         "version" : "0.6"
       }
    },
    "release_status" : "stable",
@@ -66,5 +66,5 @@
          "url" : "git://github.com/ivanwills/git-workflow-tools.git"
       }
    },
-   "version" : "0.5"
+   "version" : "0.6"
 }
